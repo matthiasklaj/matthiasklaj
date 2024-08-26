@@ -1,53 +1,27 @@
-Matthias Klajzyngier - GitHub Profile
-Welcome to my GitHub profile! I’m Matthias Klajzyngier, and here’s a bit about my background and expertise.
+Welcome to My GitHub Profile!
+Hello there! I’m Matthias Klajzyngier, and you’ve landed on my GitHub profile. I’m passionate about technology, data, and innovation, with a diverse background in digital media, cybersecurity, and digital transformation.
 
-📚 Education
-Imperial College Business School – London, UK
-Master of Science in Management (2023-2024)
-Core modules: Accounting, Business Economics, Corporate Finance, Innovation Management, Marketing Decisions, Operations Management, Organisational Behaviour, Strategic Management
+About Me
+With a solid foundation in both business and technology, I’ve explored various domains through academic pursuits and hands-on experience. Currently, I’m pursuing a Master’s in Management at Imperial College Business School, building on a Bachelor’s degree in Digital Media and Communications from the University of Royal Holloway.
 
-University of Royal Holloway – London, UK
-Bachelor of Digital Media and Communications (2020-2023)
+My career has taken me through a range of roles:
 
-Lycée Français Charles De Gaulle – London, UK
-French Baccalaureate in Maths and Sciences (2020)
+Marketing Assistant Intern at Onda.ai, where I honed my skills in data analysis and SEO.
+Digital Transformation Consultant Intern at Acceleration, WPP, where I deployed and configured Google Analytics 4.
+Junior Assistant Producer Intern at Ubisoft, coordinating software projects using Agile methodologies.
+Dev Ops Intern at British Telecom, developing front-end features and supporting QA.
+Cybersecurity Intern at Flybe, monitoring security data and identifying vulnerabilities.
+What I Do
+On this profile, you’ll find a mix of projects and repositories showcasing my work in:
 
-💼 Work Experience
-Onda.ai – Paris, FR
-Marketing Assistant Intern (2024)
+Cybersecurity: Tools and techniques like Nmap, Wireshark, and Python scripting.
+Data Analysis & Automation: Python-based automation and data processing.
+Web Development: Front-end development with HTML, CSS, and JavaScript.
+Analytics & Project Management: Using tools like Google Analytics 4, Jira, and Confluence.
+Get In Touch
+I’m always open to new opportunities and collaborations. Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
-Conducted industry trend analysis and competitive assessments
-Developed content strategies and improved organic SEO performance
-Automated data collection and web scraping with Python scripts
-Acceleration, WPP – Lisbon, Portugal
-Digital Transformation Consultant Intern (2023)
+📧 Email Me
+🔗 LinkedIn
 
-Deployed Google Analytics 4 for tracking user behaviour and conversion funnels
-Troubleshot and configured analytics to ensure accurate data and user experience
-Ubisoft – Paris, FR
-Junior Assistant Producer Intern (2021)
-
-Coordinated software development projects using Jira and Agile methodologies
-Managed tasks with time prioritization and resource coordination
-British Telecom – London, UK
-Dev Ops Intern (2018)
-
-Debugged code and supported QA processes
-Developed front-end features with JavaScript, HTML, and CSS
-Flybe – Exeter, UK
-Cybersecurity Intern (2016)
-
-Monitored security data and identified network vulnerabilities
-Gained experience with Wireshark and Cisco tools
-📜 Certifications
-Google Cybersecurity Analyst Professional Certificate
-(Python, Linux, SQL, SIEM tools like Chronicle and Splunk, IDS like Suricata)
-Tools of the Trade: Linux and SQL
-Cisco
-🛠 Skills
-Cybersecurity Tools: Nmap, Wireshark, Kali Linux, Suricata, Cisco, Splunk, SQL
-Programming & Web Technologies: Python, P5.js, HTML, CSS
-Data Analysis & Automation: Automated Python scripting, web scraping
-Analytics & Project Management: Google Analytics 4, Google Ads, Jira, Confluence, Agile
-Languages: Bilingual in French & English, Intermediate Spanish
-Feel free to explore my repositories and projects, and don’t hesitate to connect with me!
+Thank you for visiting my GitHub profile. Let’s create something amazing together!
